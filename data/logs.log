@@ -1,0 +1,76 @@
+2024-04-07 13:35:37.201 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 12:00:00 à 2024-01-03 12:00:00
+2024-04-07 13:35:37.201 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 12:00:00 à 2024-01-03 12:00:00
+2024-04-07 13:35:41.013 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 13:35:41.013 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 13:40:31.945 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 12:00:00 à 2024-01-03 12:00:00
+2024-04-07 13:40:31.945 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 12:00:00 à 2024-01-03 12:00:00
+2024-04-07 13:40:34.849 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 13:40:34.849 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 14:43:53.721 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 14:43:53.721 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 15:34:59.330 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 15:34:59.330 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 15:41:20.506 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00 à 2020-01-01 04:00:00
+2024-04-07 15:41:20.506 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00 à 2020-01-01 04:00:00
+2024-04-07 15:41:20.509 | ERROR    | main:predict:84 - Erreur lors des prédictions : time data '2020-01-01 00:00' does not match format '%Y-%m-%d %H:%M:%S'
+2024-04-07 15:41:20.509 | ERROR    | main:predict:84 - Erreur lors des prédictions : time data '2020-01-01 00:00' does not match format '%Y-%m-%d %H:%M:%S'
+2024-04-07 15:41:52.715 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-01 04:00:00:00
+2024-04-07 15:41:52.715 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-01 04:00:00:00
+2024-04-07 15:41:52.716 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 15:41:52.716 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:20:51.034 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-01 04:00:00:00
+2024-04-07 16:20:51.034 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-01 04:00:00:00
+2024-04-07 16:20:51.041 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:20:51.041 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:21:41.624 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-01 06:00:00:00
+2024-04-07 16:21:41.624 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-01 06:00:00:00
+2024-04-07 16:21:41.629 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:21:41.629 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:21:58.860 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-02 06:00:00:00
+2024-04-07 16:21:58.860 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 00:00:00 à 2020-01-02 06:00:00:00
+2024-04-07 16:21:58.861 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:21:58.861 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:22:17.098 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 00:00:00 à 2024-01-02 06:00:00:00
+2024-04-07 16:22:17.098 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 00:00:00 à 2024-01-02 06:00:00:00
+2024-04-07 16:22:17.100 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:22:17.100 | ERROR    | main:predict:84 - Erreur lors des prédictions : unconverted data remains: :00
+2024-04-07 16:24:17.854 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 00:00:00 à 2024-01-02 00:00:00
+2024-04-07 16:24:17.854 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-01 00:00:00 à 2024-01-02 00:00:00
+2024-04-07 16:24:20.604 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 16:24:20.604 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 16:26:22.141 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-09 00:00:00 à 2024-01-10 00:00:00
+2024-04-07 16:26:22.141 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2024-01-09 00:00:00 à 2024-01-10 00:00:00
+2024-04-07 16:26:23.993 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 16:26:23.993 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 23:34:22.625 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:34:22.625 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:34:47.676 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:34:47.676 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:35:13.311 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:35:13.311 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:35:15.563 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:35:15.563 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:40:14.702 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:40:14.702 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:41:29.687 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:41:29.687 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:41:31.322 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-07 23:41:31.322 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-08 00:55:36.502 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-08 00:55:36.502 | INFO     | main:root:45 - connexion à la racine effectué avec succès
+2024-04-08 00:56:28.425 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 à 2020-01-15
+2024-04-08 00:56:28.425 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2020-01-01 à 2020-01-15
+2024-04-08 00:56:28.533 | ERROR    | main:predict:84 - Erreur lors des prédictions : time data '2020-01-01' does not match format '%Y-%m-%d %H:%M:%S'
+2024-04-08 00:56:28.533 | ERROR    | main:predict:84 - Erreur lors des prédictions : time data '2020-01-01' does not match format '%Y-%m-%d %H:%M:%S'
+2024-04-08 00:59:30.925 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2022-04-08 15:30:00 à 2023-04-08 15:30:00
+2024-04-08 00:59:30.925 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2022-04-08 15:30:00 à 2023-04-08 15:30:00
+2024-04-08 00:59:31.035 | ERROR    | main:predict:84 - Erreur lors des prédictions : 'The `start` argument could not be matched to a location related to the index of the data.'
+2024-04-08 00:59:31.035 | ERROR    | main:predict:84 - Erreur lors des prédictions : 'The `start` argument could not be matched to a location related to the index of the data.'
+2024-04-08 01:00:03.356 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2021-04-08 15:30:00 à 2022-04-08 15:30:00
+2024-04-08 01:00:03.356 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2021-04-08 15:30:00 à 2022-04-08 15:30:00
+2024-04-08 01:00:03.361 | ERROR    | main:predict:84 - Erreur lors des prédictions : 'The `start` argument could not be matched to a location related to the index of the data.'
+2024-04-08 01:00:03.361 | ERROR    | main:predict:84 - Erreur lors des prédictions : 'The `start` argument could not be matched to a location related to the index of the data.'
+2024-04-08 01:01:31.670 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2021-04-08 15:30:00 à 2022-04-08 15:30:00
+2024-04-08 01:01:31.670 | INFO     | main:predict:52 - Prédictions pour les dates intervalle de date suivante 2021-04-08 15:30:00 à 2022-04-08 15:30:00
+2024-04-08 01:01:31.674 | ERROR    | main:predict:84 - Erreur lors des prédictions : 'The `start` argument could not be matched to a location related to the index of the data.'
+2024-04-08 01:01:31.674 | ERROR    | main:predict:84 - Erreur lors des prédictions : 'The `start` argument could not be matched to a location related to the index of the data.'
